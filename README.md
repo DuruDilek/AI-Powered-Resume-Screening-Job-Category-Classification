@@ -167,9 +167,9 @@ Full-stack AI yaklaşımını
 
 tek bir projede uygulamaktadır.
 
-<img width="979" height="495" alt="resim" src="https://github.com/user-attachments/assets/12030986-2f6c-475f-9b74-f3557a42a6e5" />
+
+<img width="978" height="499" alt="resim" src="https://github.com/user-attachments/assets/a1ffc2df-bcfd-4845-8701-ba4b6b975d04" />
 
 
-HTML / Tailwind CSS
 
-Pickle (Model Kaydetme)
+
